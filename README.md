@@ -8,11 +8,10 @@
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
    
 ## V2X Communication Simulation using Nest, PostGIS and MQTT
-
 ## Architecture
-- follows a simple monolithic modular design
-- see [here]('https://excalidraw.com/#json=abnO3f-WFeIkHLhySAfQF,GYVa05Xe1tCIgIdEh0h52Q')
-  
+  - follows a simple monolithic modular design
+  - see [here](https://excalidraw.com/#json=abnO3f-WFeIkHLhySAfQF,GYVa05Xe1tCIgIdEh0h52Q)
+    
 ## Future Improvements
-- Message formats like CAM and DENM carry only basic info 
+- Message formats like CAM and DENM carry only basic info for now
 - Client UI is not available right now
